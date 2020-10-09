@@ -42,10 +42,6 @@
                     "type": "archive", 
                     "url": "https://download.kde.org/stable/release-service/20.08.2/src/kanagram-20.08.2.tar.xz",
                     "sha256": "3f3f961aa847f26ac875104e82b8e7e73bbc049f20460117f849df91ba9b42e2"
-                }, 
-                {
-                    "type": "patch",
-                    "path": "appdata.patch"
                 }
             ]
         }
