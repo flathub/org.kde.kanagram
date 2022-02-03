@@ -18,8 +18,8 @@
             "sources": [ 
                 { 
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.12.1/src/libkeduvocdocument-21.12.1.tar.xz",
-                    "sha256": "2810c6d91b10b9eb987b5eedf0e5d6f75fe4dc2f2967301204131e60200c48f1"
+                    "url": "https://download.kde.org/stable/release-service/21.12.2/src/libkeduvocdocument-21.12.2.tar.xz",
+                    "sha256": "f7f3b0fe8de9eb16cb2d783b74c38e4aee928599f66c780f814b24ccfc0a709b"
                 } 
             ],
             "config-opts": [
@@ -32,8 +32,8 @@
             "sources": [ 
                 { 
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.12.1/src/kdeedu-data-21.12.1.tar.xz", 
-                    "sha256": "037ec4a89784cf5fa0151d947965f1bb51539d1037cd0835c85811c368867dcd"
+                    "url": "https://download.kde.org/stable/release-service/21.12.2/src/kdeedu-data-21.12.2.tar.xz", 
+                    "sha256": "e9ed3b34d10678afcf071d51c467e8c917261995a06e73c4cefde0355f89ebb2"
                 }
             ]
         },
@@ -43,8 +43,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.12.1/src/kanagram-21.12.1.tar.xz",
-                    "sha256": "35773560b3b54433e86836a9072d9b627584b64252986423eeb84bef8658de02"
+                    "url": "https://download.kde.org/stable/release-service/21.12.2/src/kanagram-21.12.2.tar.xz",
+                    "sha256": "9e950f0fb9232c017ef9883552a29bfc66035c7896eb7cc1e5bef18abc1392d0"
                 }
             ]
         }
