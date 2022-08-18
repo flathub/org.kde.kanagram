@@ -44,8 +44,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/kdeedu-data-22.04.3.tar.xz",
-                    "sha256": "320463fe32177e49ffb4747f890d83b471f091477473439bfe0531b0ba5fb3e4",
+                    "url": "https://download.kde.org/stable/release-service/22.08.0/src/kdeedu-data-22.08.0.tar.xz",
+                    "sha256": "661a15b082a58cc10e6d171bf801922c46f2ab2a472b03a2aa5ae44d883cf302",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
