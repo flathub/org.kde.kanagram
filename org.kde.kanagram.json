@@ -61,8 +61,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/kanagram-22.08.3.tar.xz",
-                    "sha256": "09330ddaea40c86dfa0fd715479e4535824f5a5140ee1c5905a58277ff1a14c1",
+                    "url": "https://download.kde.org/stable/release-service/22.12.0/src/kanagram-22.12.0.tar.xz",
+                    "sha256": "89236c258a3c7171da504e2392662ed68a2d2970d6d6c8d06b0692ad28bda252",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
