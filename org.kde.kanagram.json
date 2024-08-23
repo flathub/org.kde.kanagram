@@ -28,8 +28,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.05.2/src/libkeduvocdocument-24.05.2.tar.xz",
-                    "sha256": "32f27a3999a90a3578fc03937ecf43d31c97ef0db5fdedb9c0acdadc7018b211",
+                    "url": "https://download.kde.org/stable/release-service/24.08.0/src/libkeduvocdocument-24.08.0.tar.xz",
+                    "sha256": "9ff94d77c66ef574bc51f5384fa3370a854524a809bab10a292ccd57d723a8c5",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -45,8 +45,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.05.2/src/kdeedu-data-24.05.2.tar.xz",
-                    "sha256": "851282c8f0c5abacd6d721deafe653fde330eaea79efcb4a71c7f5cba08c9359",
+                    "url": "https://download.kde.org/stable/release-service/24.08.0/src/kdeedu-data-24.08.0.tar.xz",
+                    "sha256": "ce1d70e39acd3c333a8e6819573b38d83a89fcd80f3293c8c31707e604f4704c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -62,8 +62,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.05.2/src/kanagram-24.05.2.tar.xz",
-                    "sha256": "7767b35c19896afb4cbf53ba9415bd7fba274561eac58b892801a41e895739d1",
+                    "url": "https://download.kde.org/stable/release-service/24.08.0/src/kanagram-24.08.0.tar.xz",
+                    "sha256": "e384e931351df9ad6f032d77e005a3954a78b854cd9dc2e2d2f5c376e5d8125d",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
